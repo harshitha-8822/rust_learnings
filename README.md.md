@@ -33,3 +33,5 @@ This repository contains my **day-wise Rust learning programs**
 -Day 01: Basics
 
 -Day 02: Strings and Vectors
+
+-Day 03: Structs, Enums, impl methods, modules --> CLI Task Manager 
